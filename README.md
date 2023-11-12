@@ -1,2 +1,4 @@
-# LlamaIndex-with-llms-for-AI-apps
-Hands On with LlamaIndex, VectorStores, and LLMs (OpenAI/PaLM/Open LLMs)
+# AI apps with LlamaIndex & llms
+---
+
+Hands-On with LlamaIndex, VectorStores, and LLMs (OpenAI GPT-3.5,GPT-3.5, PaLM, and more).
